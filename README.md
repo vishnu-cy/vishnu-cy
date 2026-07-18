@@ -1,3 +1,7 @@
+<!-- Cybersecurity-Themed Banner -->
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,50:0f172a,100:06b6d4&text=Vishnu%20S%20R&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Cybersecurity%20%7C%20Artificial%20Intelligence%20%7C%20Security%20Research&descAlignY=58&descSize=18&animation=fadeIn"/> </p>
+
 <h1 align="center">Hi 👋, I'm Vishnu S R</h1>
 <h3 align="center">
 Cybersecurity & Artificial Intelligence Researcher | MSc Cybersecurity & AI | Offensive Security Enthusiast
