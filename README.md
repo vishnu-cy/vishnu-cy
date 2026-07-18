@@ -113,17 +113,12 @@ I enjoy exploring the intersection of <b>Cybersecurity</b>, <b>Artificial Intell
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=vishnu-cy&show_icons=true&theme=tokyonight&rank_icon=github"/>
-
+  
   <img height="170"
        src="https://streak-stats.demolab.com?user=vishnu-cy&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-cy&layout=compact&theme=tokyonight"/>
-</p>
+
 ---
 
 ## 📫 Connect with Me
