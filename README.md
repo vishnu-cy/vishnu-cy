@@ -1,16 +1,133 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vishnu S R</h1>
+<h3 align="center">
+Cybersecurity & Artificial Intelligence Researcher | MSc Cybersecurity & AI | Offensive Security Enthusiast
+</h3>
 
-<!--
-**vishnu-cy/vishnu-cy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I enjoy exploring the intersection of <b>Cybersecurity</b>, <b>Artificial Intelligence</b>, and <b>Machine Learning Security</b>. My work focuses on building secure AI systems, studying adversarial attacks, and applying AI to solve cybersecurity challenges.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 MSc Cybersecurity & Artificial Intelligence @ University of Sheffield
+- 🔬 Research Interests:
+  - AI Security
+  - Adversarial Machine Learning
+  - Zero-Knowledge Proofs for Machine Learning
+  - Embedded & Autonomous System Security
+  - Network Security
+  - Offensive Security
+- 💻 Currently working on:
+  - Machine Learning Verification using Zero-Knowledge Proofs
+  - AI-powered Cybersecurity Projects
+  - Security Research & Technical Writing
+- 🌱 Currently learning:
+  - Advanced Deep Learning
+  - Explainable AI
+  - Cryptography
+  - Secure AI Systems
+- 🎯 Long-term Goal:
+  - Building AI systems that are secure, trustworthy, and privacy-preserving.
+
+---
+
+## 🛠 Languages & Technologies
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,bash" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+- NumPy
+- Pandas
+- Scikit-Learn
+- JAX
+- Optax
+- Spark (PySpark)
+
+### Cybersecurity
+
+- Penetration Testing
+- Web Security
+- Network Security
+- Digital Forensics
+- Vulnerability Assessment
+- Cryptography
+- Secure AI
+- Threat Analysis
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode" />
+</p>
+
+---
+
+## 📚 Research Interests
+
+- Artificial Intelligence Security
+- Adversarial Machine Learning
+- Secure Deep Learning
+- Zero-Knowledge Proofs
+- Privacy-Preserving Machine Learning
+- Autonomous System Security
+- Secure Embedded Systems
+- AI for Cyber Defense
+
+---
+
+## 🚀 Featured Projects
+
+🔹 AI-Powered Ransomware Detection
+
+🔹 Zero-Knowledge Proofs for CNN Verification
+
+🔹 World Cup Match Prediction using Machine Learning
+
+🔹 Automotive CAN Bus Authentication System
+
+🔹 Cybersecurity Portfolio Website
+
+*(More projects coming soon...)*
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- Portfolio: https://YOUR-WEBSITE
+- Email: YOUR_EMAIL
+
+---
+
+## 💡 Quote
+
+> "Security is not a product, but a process." — Bruce Schneier
