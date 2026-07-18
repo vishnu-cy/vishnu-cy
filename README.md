@@ -67,8 +67,16 @@ I enjoy exploring the intersection of <b>Cybersecurity</b>, <b>Artificial Intell
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode" />
+
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Autopsy-2C3E50?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
