@@ -114,9 +114,9 @@ I enjoy exploring the intersection of <b>Cybersecurity</b>, <b>Artificial Intell
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishnu-cy&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?user=vishnu-cy&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?username=vishnu-cy&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu-cy&theme=tokyonight"/>
 
 </p>
 
